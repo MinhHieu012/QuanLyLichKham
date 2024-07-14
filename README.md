@@ -61,3 +61,9 @@ DB_PASSWORD=
 Username: admin
 
 Password: 88866632664Hieu@
+
+## If you have this error
+
+> SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+
+Then move to folder bootstrap/cache then delete config.php file
