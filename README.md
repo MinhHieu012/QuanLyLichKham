@@ -47,7 +47,9 @@ DB_PASSWORD=
 ## Run these command 1 time before run the project
 
 > composer install
+
 > composer update
+
 > php artisan key:generate
 
 ## Run project
@@ -57,4 +59,5 @@ DB_PASSWORD=
 ## Admin Account
 
 Username: admin
+
 Password: 88866632664Hieu@
